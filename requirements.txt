@@ -7,3 +7,5 @@ langchain-huggingface
 langchain-classic
 langchain-core
 pypdf
+sentence-transformers
+torch
